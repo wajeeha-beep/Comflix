@@ -54,7 +54,7 @@ public:
             newNode->prev = tail;
             tail = newNode;
         }
-        return true;9
+        return true;
     }
 
     // O(1) check
